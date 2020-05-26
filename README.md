@@ -1,1 +1,3 @@
-Livy restful API client, support both interactive and batch session client
+# 介绍
+
+Java语言实现的Livy Restful API。
